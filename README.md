@@ -8,7 +8,7 @@ Aiming at the limitations of convolutional neural networks in global feature ext
 Here is the paper we will publish "ParC-ReSMNet: A ConvNet with global perception for bearing fault diagnosis".
 
 ## Network Architecture
-<img >
+<img src="assets/ParC-ResMNet.emf">
 
 ## :trophy: Result
 Our proposed method achieves better performance on self-made dataset and DCASE  2023 dataset.
