@@ -12,10 +12,10 @@ Aiming at the limitations of convolutional neural networks in global feature ext
 Our proposed method achieves better performance on self-made belt conveyor idler dataset and and DCASE 2023 dataset.
 
 ROC curves result plot on self-made dataset
-<img src="assets/ROC curves on self-made dataset.png">
+<img src="assets/ROC curves on self-made dataset.jpg">
 
 PR result plot on DCASE 2023 dataset
-<img src="assets/ROC curves on DCASE 2023 dataset.png">
+<img src="assets/ROC curves on DCASE 2023 dataset.jpg">
 
 ## Cite this article
 
