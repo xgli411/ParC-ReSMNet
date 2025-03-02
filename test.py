@@ -20,7 +20,7 @@ device = torch.device("cuda:0" if torch.cuda.is_available() else "cpu")
 print(device)
 
 model = parc_resnet(BasicBlock, [2, 2, 2, 2], [1, 1, 1, 1]).to(device)
-model_loc = './best_model.pth'
+model_loc = './weight/best_model.pth'
 model.load_state_dict(torch.load(model_loc))
 
 train_path = "./self_stft_data/train"
