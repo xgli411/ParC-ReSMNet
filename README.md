@@ -7,7 +7,6 @@ Aiming at the limitations of convolutional neural networks in global feature ext
 
 ## Network Architecture
 <img src="assets/model.jpg">
-<img src="assets/ParC_ResMNet.jpg">
 
 ## Cite this article
 
