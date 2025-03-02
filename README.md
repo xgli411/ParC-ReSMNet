@@ -12,17 +12,15 @@ Aiming at the limitations of convolutional neural networks in global feature ext
 ## Result
 Our proposed method achieves better performance on self-made belt conveyor idler dataset and and DCASE 2023 dataset.
 
-### ROC curves result plot on self-made dataset
+- ROC curves result plot on self-made dataset
 <img src="assets/ROC curves on self-made dataset.jpg">
 
-### PR result plot on DCASE 2023 dataset
+- PR result plot on DCASE 2023 dataset
 <img src="assets/ROC curves on DCASE 2023 dataset.jpg">
 
 ## Cite this article
 
 🔗🔗Paper link：[https://www.tandfonline.com/doi/abs/10.1080/10589759.2024.2408441](https://www.sciencedirect.com/science/article/abs/pii/S0952197624021456)
-
-Li X, Chen Y, Liu Y. A novel convolutional neural network with global perception for bearing fault diagnosis[J]. Engineering Applications of Artificial Intelligence, 2025, 143: 109986.
 
 @article{LI2025109986,
 title = {A novel convolutional neural network with global perception for bearing fault diagnosis},
